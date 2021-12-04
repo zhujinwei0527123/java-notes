@@ -1,8 +1,9 @@
 # java-notes
+
 ## 引言
-> - [个人博客](https://blog.dreamcat.ink/)
+
+> - [个人博客](https://tc.dreamcat.ink/)
 > - [在线面试阅读](https://dreamcat.ink/java-interview/)
-> - [成长书籍](https://dreamcat.ink/book)
 > - **Dreamcats的公众号**：[访问链接](https://mp.weixin.qq.com/s/NTRnfdPcr2pVnTvhFMYJCg)
 
 ###  🔖DreamCats
@@ -41,6 +42,7 @@
 
 | 类型  | 名称                                                         | 来源           |
 | ----- | ------------------------------------------------------------ | -------------- |
+| Other | [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | EbookFoundation |
 | Other | [计算机专业电子书下载](https://tanqingbo.cn/CSBook001/)      | IT码农         |
 | Other | [计算机专业电子书下载-2](https://tanqingbo.cn/CSBook001/)    | javaer-roadmap |
 | Other | [各个技术开发文档](https://www.bookstack.cn/)    | 书栈网 |
@@ -93,6 +95,7 @@
 | Java | [通俗易懂的ReentrantLock，不懂你来砍我](https://mp.weixin.qq.com/s/ks1-_tsTdWm1FEux42rgZw) | 程序猿阿星 |
 | Java | [面试官："遇到过死锁问题吗？怎么发生的？如何解决呢？"](https://mp.weixin.qq.com/s/qSkRtwH_jUjXHPxu0KDQxA) | 承香墨影 |
 | Java | [String s="a"+"b"+"c"，到底创建了几个对象？](https://mp.weixin.qq.com/s/IVmVdCQCKOXk8NnHNcFz4A) | 码农参上 |
+| Java | [聊聊spring事务失效的12种场景，太坑了](https://mp.weixin.qq.com/s/4M4rePjjy8-UBVvCzHchTQ) | 苏三说技术 |
 
 ### 📚数据库
 
@@ -123,6 +126,8 @@
 | MySQL | [慢SQL排查思路？就这。](https://mp.weixin.qq.com/s/3yki4dljbLMgnOVrsqbk8w) | yes的练级攻略 |
 | MySQL | [42 张图带你撸完 MySQL 优化](https://www.cnblogs.com/cxuanBlog/p/15059928.html) | 程序员emcxuan |
 | MySQL | [容易引起雪崩的两个处理](http://mtw.so/6iZInk) | 编程一生 |
+| MySQL | [一个MySQL锁和面试官大战三十回合，我霸中霸！](https://mp.weixin.qq.com/s/VjsQR_co2oM11EywegZrMw) | yes的练级攻略 |
+| MySQl | [五分钟搞懂MySQL索引下推](https://mp.weixin.qq.com/s/iQnArUNIsZFzVCj90MZjyg) | 老三 |
 
 ### 🧾分布式&&中间件
 
@@ -146,6 +151,8 @@
 | 消息      | [消息幂等（去重）如何解决？来看看这个方案！](https://mp.weixin.qq.com/s/kLb1pweomL19aGaiHjO3Fg) | JAVA日知录 |
 | 本地缓存 | [Guava Cache 原理分析与最佳实践](https://mp.weixin.qq.com/s/ADcu_XKTJxXectMQ8S20SQ) | 梓川 |
 | 分布式锁 | [万字长文说透分布式锁](https://mp.weixin.qq.com/s/35aCS_5GqLyzZS3VobL6fg) | 多颗糖 |
+| 降级限流 | [高并发整体可用性：一文详解降级、限流和熔断](https://mp.weixin.qq.com/s/-E3RupBNVia0qfph-iOo1w) | Coder的技术之路 |
+| kafka    | [Kafka 为什么要放弃 Zookeeper](https://mp.weixin.qq.com/s/0dHPu8O70v69mVuM4--HfA) | 捉虫大师 |
 
 ### 🎈数据结构
 
@@ -158,6 +165,8 @@
 | 算法 | [红黑树深入剖析及Java实现](https://tech.meituan.com/2016/12/02/redblack-tree.html) |  美团技术团队  |
 | 算法 | [牛逼哄哄的 BitMap，到底牛逼在哪？](https://juejin.cn/post/6953821179836629005) | ITl老哥 |
 | 算法 | [布隆过滤器](https://www.wolai.com/dreamcat/iPRdAMVPcCJqiZ9gBd3Jvd?theme=dark) | DreamCats |
+| 算法 | [实现LRU缓存机制](https://mp.weixin.qq.com/s/ZziTk_ZwHRRaIgorarJMhQ) | 郭儿的跋涉 |
+| 算法 | [实现LFU缓存机制](https://mp.weixin.qq.com/s/Eyu1sKzrajttiQ0DxP5Q3w) | 郭儿的跋涉 |
 
 ### 📖计算机网络
 
@@ -167,8 +176,9 @@
 | 计网 | [懵了！有了HTTP，为什么还要RPC](https://mp.weixin.qq.com/s/_kIlERTAgXHc1nWXwkHNHQ) | 小哈学     |
 | 计网 | [“三次握手，四次挥手”这么讲，保证你忘不了](https://mp.weixin.qq.com/s/QxY2Y8BhGTaGgOG1dyRuFg) | 三分恶     |
 | 计网 | [超详细 DNS 协议解析](https://juejin.cn/post/6919755385330991112) | 飞天小牛肉 |
-| 计网 | [详细解析 HTTP 与 HTTPS 的区别](https://juejin.cn/post/6844903471565504526) | 坑队友     |
+
 | 计网 | [傻傻分不清之 Cookie、Session、Token、JWT](https://juejin.cn/post/6844904034181070861) | 秋天不落叶 |
+| 计网 | [简略图解：输入 url 到出现页面，浏览器做了什么？](https://zhuanlan.zhihu.com/p/402559256) | 又拍云 |
 
 ### ✉️操作系统
 
@@ -181,3 +191,46 @@
 | 系统 | [谈谈操作系统的多进程](https://www.cnblogs.com/zhaozhibo/p/15109430.html) | ZhiboZhao |
 | 系统 | [阿里二面：什么是mmap？](https://mp.weixin.qq.com/s/czMlM6xuuyq2XlU_FB9aVQ) | 苏三说技术 |
 
+
+### [🍎效率工具](🍎效率工具)
+
+| 类型 | 题目                                                                                       | 来源           |
+| ---- | ------------------------------------------------------------                               | -------------- |
+| 写作 | [图床，uPic和阿里oss搭建与使用](https://juejin.cn/post/7010985866185146399)  | 司司           |
+| Git  | [你的文件需要 git，详细安装与使用（一）](https://juejin.cn/post/7011413073881727013)  | 司司           |
+| Git  | [你的文件需要 git，常用命令（二）](https://tc.dreamcat.ink/archives/18.html)              | 司司           |
+| 文件 | [mac解决移动文件的痛点-yoink](https://juejin.cn/post/7017382028865699877)  | 司司           |
+| 图床 | [管理图床-oss-browser ](https://juejin.cn/post/7026587086920613896/)                       | 司司           |
+| 终端 | [时而花里胡哨，时而朴实无华-iterm2 ](https://juejin.cn/post/7026924031056019486/) | 司司           |
+| rss  | [及时推送-RSSHub](https://juejin.cn/post/7028022886380077093/)                    | 司司           |
+| vim  | [vim 编程-初探（一）](https://juejin.cn/post/7028887363266805773/)                | 司司           |
+| vim  | [vim 编程-优雅（二）](https://juejin.cn/post/7033966288863133732/)                | 黑夜           |
+
+### 😣源码阅读
+
+| 类型 | 题目 | 来源 |
+| ---  | ---  | ---  |
+| nginx | [闲不下来-nginx是什么？（一）](https://juejin.cn/post/7012491394979725349) | 司司 |
+| nginx  | [闲不下来-nginx环境搭建（二）](https://juejin.cn/post/7012922394478116900) | 司司 |
+| nginx | [闲不下来-nginx源码全局认知（三）](https://juejin.cn/post/7018372907780800526) | 司司 |
+| nginx | [闲不下来-nginx配置文件（四）](https://juejin.cn/user/2928754709248584) | 司司 |
+| nginx | [闲不下来-nginx基本数据结构（五）](https://juejin.cn/post/7025426746228867102/) | 司司 |
+| nginx | [闲不下来-nginx数组结构（六）](https://juejin.cn/post/7026253473184219150/)     | 司司 |
+| nginx | [闲不下来-nginx 链表结构（七）](https://juejin.cn/post/7031466605297008647/)    | 司司 |
+
+### 👽我学设计模式
+
+| 类型 | 题目 | 来源 |
+| ---  | ---  | ---  |
+| 设计模式 | [我学设计模式-单例模式](https://juejin.cn/post/7016615747073867784) | 司司 |
+| 设计模式 | [我学设计模式-工厂模式](https://juejin.cn/post/7020608341969731591) | 司司 |
+
+## 🙈与我联系
+
+- 公众号(Dreamcats)：沉淀、分享、成长，专注于原创专题案例，以最易学习编程的方式分享知识，让自己和他人都能有所收获。个人秋招经历、🐂客面经问题按照频率总结、Java一系列知识、数据库、分布式、微服务、前端、技术面试、每日文章等(持续更新)
+
+![wx-gzh](http://imgs.dreamcat.ink/blog/wxgzh.jpg)
+
+- 小程序(在线面试助手)：包含各个大厂的面经、算法题、知识点，并且小程序包含长按复制和点击图片预览功能，同时小程序继续优化和开发。
+
+![wx-xcx](http://imgs.dreamcat.ink/blog/online-interview-qr.jpg)
